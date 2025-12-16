@@ -1,3 +1,4 @@
 # Tic-Tac-Toe-Game
 practice project to upgrade my skills
-We use html css javascript for this
+We use html css javascript in this project 
+
